@@ -1,0 +1,378 @@
+crop,temp,humidity,rainfall,label
+cucumber,25,80,20,optimal
+cucumber,26,82,25,optimal
+cucumber,27,84,30,optimal
+cucumber,28,86,22,optimal
+cucumber,29,88,24,optimal
+cucumber,30,90,25,optimal
+cucumber,5,60,42,not optimal
+cucumber,6,65,45,not optimal
+cucumber,8,68,54,not optimal
+cucumber,10,70,63,not optimal
+cucumber,3,72,85,not optimal
+cucumber,4,75,75,not optimal
+rice,16,60,100,optimal
+rice,18,65,120,optimal
+rice,20,75,130,optimal
+rice,22,80,140,optimal
+rice,25,62,150,optimal
+rice,28,74,170,optimal
+rice,30,69,185,optimal
+rice,28,70,195,optimal
+rice,8,20,50,not optimal
+rice,10,25,30,not optimal
+rice,12,40,40,not optimal
+rice,14,35,45,not optimal
+rice,15,50,20,not optimal
+rice,9,45,25,not optimal
+rice,11,30,28,not optimal
+wheat,21,50,20,optimal
+wheat,22,55,24,optimal
+wheat,21,51,25,optimal
+wheat,25,59,60,optimal
+wheat,26,54,75,optimal
+wheat,23,52,50,optimal
+wheat,23,55,45,optimal
+wheat,24,58,35,optimal
+wheat,25,56,30,optimal
+wheat,50,20,10,not optimal
+wheat,70,25,15,not optimal
+wheat,75,30,18,not optimal
+wheat,80,24,16,not optimal
+wheat,65,28,18,not optimal
+wheat,85,35,14,not optimal
+wheat,68,29,13,not optimal
+wheat,74,32,12,not optimal
+wheat,78,21,19,not optimal
+wheat,55,34,11,not optimal
+maize,21,65,50,optimal
+maize,24,55,55,optimal
+maize,22,58,100,optimal
+maize,25,59,95,optimal
+maize,28,64,85,optimal
+maize,30,53,72,optimal
+maize,22,62,75,optimal
+maize,27,56,64,optimal
+maize,29,63,59,optimal
+maize,30,51,80,optimal
+maize,10,20,120,not optimal
+maize,5,25,150,not optimal
+maize,8,45,25,not optimal
+maize,9,35,40,not optimal
+maize,15,42,30,not optimal
+maize,18,30,35,not optimal
+maize,16,29,125,not optimal
+maize,12,28,145,not optimal
+maize,14,22,135,not optimal
+maize,15,43,35,not optimal
+sugarcane,30,60,150,optimal
+sugarcane,20,55,75,optimal
+sugarcane,24,58,78,optimal
+sugarcane,29,52,80,optimal
+sugarcane,25,57,90,optimal
+sugarcane,23,58,88,optimal
+sugarcane,28,52,85,optimal
+sugarcane,22,59,120,optimal
+sugarcane,21,54,130,optimal
+sugarcane,26,53,140,optimal
+sugarcane,8,20,25,not optimal
+sugarcane,10,30,30,not optimal
+sugarcane,12,35,40,not optimal
+sugarcane,50,40,50,not optimal
+sugarcane,60,25,45,not optimal
+sugarcane,65,29,35,not optimal
+sugarcane,55,38,25,not optimal
+sugarcane,75,35,28,not optimal
+sugarcane,80,24,38,not optimal
+sugarcane,69,32,45,not optimal
+cotton,21,75,100,optimal
+cotton,25,40,95,optimal
+cotton,35,60,55,optimal
+cotton,32,45,59,optimal
+cotton,22,55,60,optimal
+cotton,26,68,65,optimal
+cotton,28,43,85,optimal
+cotton,34,52,95,optimal
+cotton,29,50,78,optimal
+cotton,25,45,72,optimal
+cotton,8,15,20,not optimal
+cotton,10,20,30,not optimal
+cotton,15,12,25,not optimal
+cotton,60,25,35,not optimal
+cotton,70,28,40,not optimal
+cotton,65,30,120,not optimal
+cotton,75,35,130,not optimal
+cotton,68,29,125,not optimal
+millets,25,45,48,optimal
+millets,28,43,45,optimal
+millets,30,40,49,optimal
+millets,22,50,60,optimal
+millets,24,47,65,optimal
+millets,25,48,50,optimal
+millets,29,49,55,optimal
+millets,21,42,59,optimal
+millets,23,50,44,optimal
+millets,27,45,54,optimal
+millets,40,20,70,not optimal
+millets,35,25,80,not optimal
+millets,50,28,75,not optimal
+millets,45,29,85,not optimal
+millets,42,15,90,not optimal
+millets,32,18,30,not optimal
+millets,36,20,25,not optimal
+millets,55,22,28,not optimal
+millets,60,25,100,not optimal
+millets,52,19,120,not optimal
+barley,15,40,80,optimal
+barley,20,50,85,optimal
+barley,17,45,87,optimal
+barley,25,42,82,optimal
+barley,28,49,90,optimal
+barley,29,45,95,optimal
+barley,16,48,100,optimal
+barley,32,47,110,optimal
+barley,50,20,50,not optimal
+barley,55,29,55,not optimal
+barley,70,25,45,not optimal
+barley,65,23,40,not optimal
+barley,58,28,30,not optimal
+barley,55,26,35,not optimal
+barley,68,21,38,not optimal
+barley,56,18,46,not optimal
+groundnut,25,65,62,optimal
+groundnut,26,60,62,optimal
+groundnut,24,62,69,optimal
+groundnut,22,69,75,optimal
+groundnut,28,63,72,optimal
+groundnut,27,64,50,optimal
+groundnut,29,68,58,optimal
+groundnut,21,67,65,optimal
+groundnut,25,66,70,optimal
+groundnut,45,25,25,not optimal
+groundnut,40,28,30,not optimal
+groundnut,50,30,48,not optimal
+groundnut,46,26,45,not optimal
+groundnut,55,21,32,not optimal
+groundnut,58,29,90,not optimal
+groundnut,52,22,95,not optimal
+groundnut,56,27,100,not optimal
+groundnut,60,26,120,not optimal
+groundnut,57,24,115,not optimal
+mustard,25,35,35,optimal
+mustard,23,40,36,optimal
+mustard,25,34,25,optimal
+mustard,24,45,30,optimal
+mustard,23,36,28,optimal
+mustard,24,39,36,optimal
+mustard,24,37,38,optimal
+mustard,25,42,40,optimal
+mustard,22,42,32,optimal
+mustard,22,45,29,optimal
+mustard,40,20,50,not optimal
+mustard,50,30,70,not optimal
+mustard,42,25,65,not optimal
+mustard,35,28,55,not optimal
+mustard,39,18,68,not optimal
+mustard,48,15,58,not optimal
+mustard,42,26,52,not optimal
+mustard,45,22,64,not optimal
+mustard,49,29,67,not optimal
+soybean,20,55,60,optimal
+soybean,35,59,45,optimal
+soybean,32,60,30,optimal
+soybean,25,52,35,optimal
+soybean,28,51,38,optimal
+soybean,29,56,49,optimal
+soybean,33,67,55,optimal
+soybean,35,54,59,optimal
+soybean,29,58,52,optimal
+soybean,22,53,46,optimal
+soybean,40,25,25,not optmial
+soybean,50,28,28,not optmial
+soybean,45,30,19,not optmial
+soybean,49,24,25,not optmial
+soybean,46,27,80,not optmial
+soybean,52,23,75,not optmial
+soybean,59,26,85,not optmial
+soybean,55,22,95,not optmial
+soybean,60,21,90,not optmial
+masoor,19,40,90,optimal
+masoor,20,50,92,optimal
+masoor,18,45,100,optimal
+masoor,20,48,96,optimal
+masoor,18,46,94,optimal
+masoor,18,43,98,optimal
+masoor,19,47,95,optimal
+masoor,20,46,92,optimal
+masoor,20,41,91,optimal
+masoor,45,25,30,not optimal
+masoor,50,15,35,not optimal
+masoor,55,19,60,not optimal
+masoor,42,18,55,not optimal
+masoor,58,27,40,not optimal
+masoor,60,26,45,not optimal
+masoor,65,29,35,not optimal
+masoor,52,24,48,not optimal
+moong,30,45,75,optimal
+moong,35,50,80,optimal
+moong,25,35,85,optimal
+moong,28,40,65,optimal
+moong,29,44,69,optimal
+moong,32,46,90,optimal
+moong,34,48,88,optimal
+moong,32,50,68,optimal
+moong,25,45,75,optimal
+moong,26,38,70,optimal
+moong,40,15,30,not optimal
+moong,45,18,35,not optimal
+moong,50,25,50,not optimal
+moong,60,19,45,not optimal
+moong,55,26,48,not optimal
+moong,65,27,42,not optimal
+moong,45,25,35,not optimal
+moong,55,29,38,not optimal
+moong,59,18,32,not optimal
+moong,49,24,50,not optimal
+rajma,25,75,75,optimal
+rajma,20,80,80,optimal
+rajma,15,72,90,optimal
+rajma,18,75,85,optimal
+rajma,19,80,100,optimal
+rajma,22,74,125,optimal
+rajma,23,73,65,optimal
+rajma,24,72,60,optimal
+rajma,25,78,130,optimal
+rajma,16,79,140,optimal
+rajma,30,55,30,not optimal
+rajma,45,60,50,not optimal
+rajma,50,50,45,not optimal
+rajma,35,55,48,not optimal
+rajma,48,58,42,not optimal
+rajma,36,52,35,not optimal
+rajma,39,27,26,not optimal
+rajma,46,53,32,not optimal
+rajma,42,51,38,not optimal
+rajma,45,55,48,not optimal
+urd,15,60,50,optimal
+urd,30,70,75,optimal
+urd,25,65,65,optimal
+urd,28,69,52,optimal
+urd,22,62,68,optimal
+urd,18,64,54,optimal
+urd,20,62,72,optimal
+urd,26,65,70,optimal
+urd,29,61,52,optimal
+urd,26,63,62,optimal
+urd,27,66,69,optimal
+urd,40,30,30,not optimal
+urd,50,45,35,not optimal
+urd,60,50,40,not optimal
+urd,55,46,38,not optimal
+urd,45,42,80,not optimal
+urd,52,36,90,not optimal
+urd,58,32,95,not optimal
+urd,56,37,120,not optimal
+urd,48,45,110,not optimal
+urd,42,48,100,not optimal
+urd,48,50,105,not optimal
+tea,25,80,150,optimal
+tea,30,65,250,optimal
+tea,20,70,160,optimal
+tea,22,75,170,optimal
+tea,24,64,190,optimal
+tea,28,78,210,optimal
+tea,29,68,230,optimal
+tea,30,62,180,optimal
+tea,27,77,200,optimal
+tea,26,72,220,optimal
+tea,22,78,240,optimal
+tea,40,20,100,not optimal
+tea,50,25,80,not optimal
+tea,45,40,90,not optimal
+tea,55,35,85,not optimal
+tea,58,38,75,not optimal
+tea,47,32,60,not optimal
+tea,45,24,55,not optimal
+tea,48,28,65,not optimal
+tea,43,25,40,not optimal
+tea,60,35,95,not optimal
+coffee,25,70,150,optimal
+coffee,15,75,160,optimal
+coffee,18,80,170,optimal
+coffee,20,78,180,optimal
+coffee,28,72,190,optimal
+coffee,23,75,200,optimal
+coffee,27,79,250,optimal
+coffee,24,74,220,optimal
+coffee,25,71,230,optimal
+coffee,26,72,210,optimal
+coffee,27,76,240,optimal
+coffee,40,40,60,not optimal
+coffee,60,50,40,not optimal
+coffee,55,45,45,not optimal
+coffee,45,47,50,not optimal
+coffee,42,43,55,not optimal
+coffee,48,42,48,not optimal
+coffee,52,48,58,not optimal
+coffee,58,49,52,not optimal
+coffee,53,41,46,not optimal
+coffee,59,47,43,not optimal
+coffee,55,46,49,not optimal
+tomato,23,60,40,optimal
+tomato,27,67,60,optimal
+tomato,25,72,45,optimal
+tomato,24,62,55,optimal
+tomato,26,78,58,optimal
+tomato,27,64,45,optimal
+tomato,25,85,48,optimal
+tomato,24,70,42,optimal
+tomato,26,75,52,optimal
+tomato,40,30,80,not optimal
+tomato,50,50,90,not optimal
+tomato,45,60,85,not optimal
+tomato,42,35,82,not optimal
+tomato,48,55,88,not optimal
+tomato,52,38,85,not optimal
+tomato,59,48,95,not optimal
+tomato,55,55,92,not optimal
+tomato,58,49,95,not optimal
+tomato,56,32,100,not optimal
+peas,20,70,40,optimal
+peas,30,75,50,optimal
+peas,25,78,45,optimal
+peas,28,80,42,optimal
+peas,25,72,46,optimal
+peas,26,73,49,optimal
+peas,24,74,48,optimal
+peas,29,76,41,optimal
+peas,27,71,46,optimal
+peas,22,75,47,optimal
+peas,40,45,60,not optimal
+peas,50,60,80,not optimal
+peas,45,55,65,not optimal
+peas,60,42,75,not optimal
+peas,43,48,72,not optimal
+peas,58,46,78,not optimal
+peas,41,55,66,not optimal
+peas,46,58,69,not optimal
+peas,55,52,65,not optimal
+peas,52,46,70,not optimal
+peppers,22,60,125,optimal
+peppers,30,65,200,optimal
+peppers,25,62,175,optimal
+peppers,26,64,180,optimal
+peppers,28,63,140,optimal
+peppers,29,62,150,optimal
+peppers,24,61,160,optimal
+peppers,23,65,130,optimal
+peppers,22,64,190,optimal
+peppers,25,62,150,optimal
+peppers,50,30,60,not optimal
+peppers,51,35,80,not optimal
+peppers,56,45,90,not optimal
+peppers,55,90,65,not optimal
+peppers,57,92,75,not optimal
+peppers,58,95,85,not optimal
+peppers,52,100,95,not optimal
+peppers,59,85,55,not optimal
+peppers,60,75,50,not optimal
